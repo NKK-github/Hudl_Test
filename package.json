@@ -1,0 +1,20 @@
+{
+  "name": "hudl-test",
+  "version": "1.0.0",
+  "description": "Test the Hudl application",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NKK-github/Hudl_Test.git"
+  },
+  "author": "Nisha Sanjay",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/NKK-github/Hudl_Test#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
